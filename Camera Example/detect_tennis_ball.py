@@ -3,7 +3,6 @@ A script that can detect the color of a tennis ball
 @author Hayden Shively
 '''
 
-
 import cv2
 # import numpy as np
 
